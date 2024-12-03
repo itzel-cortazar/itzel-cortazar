@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualization, analysis, and BI tools.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on dashboards and ETL workflows.
-- 📫 How to reach me [Visita mi LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/itzel-hdz-cortazar/))
+- 📫 How to reach me [Visita mi LinkedIn](https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/itzel-hdz-cortazar/)
 
 
 <!---
